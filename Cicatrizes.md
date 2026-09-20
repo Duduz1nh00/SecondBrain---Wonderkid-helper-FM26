@@ -26,10 +26,10 @@
 
  
  
-**No FM26 como escolher um bom olheiro?
-Quais atributos devo checar na ficha do olheiro antes de contratar?
-O que avaliar além dos atributos como custo, alcance de conhecimento do país e restrições da diretoria?
-Como garantir e configurar o olheiro para que ele traga jovens promessas com real potencial para o time principal?**
+**No FM26 como escolher um bom olheiro?**
+- Quais atributos devo checar na ficha do olheiro antes de contratar?
+- O que avaliar além dos atributos como custo, alcance de conhecimento do país e restrições da diretoria?
+- Como garantir e configurar o olheiro para que ele traga jovens promessas com real potencial para o time principal?
 
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6eaa5eb2-888a-49e2-8d79-86ced84074c1" />
  
