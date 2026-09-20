@@ -1,7 +1,7 @@
 **Como escolher um olheiro? 
-Minha dúvida se baseia em: Quais as informações presentes no simulador eu consigo extrair para escolher um bom profissional?
-O que devo levar em consideração antes de decidir fechar a contratação?
-Como eu sei que o olheiro irá buscar bons candidatos para lançar ao time de cima?**
+- Minha dúvida se baseia em: Quais as informações presentes no simulador eu consigo extrair para escolher um bom profissional?
+- O que devo levar em consideração antes de decidir fechar a contratação?
+- Como eu sei que o olheiro irá buscar bons candidatos para lançar ao time de cima?**
 
 
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/de9cb529-541f-40ef-b5fe-fd1a4fd62afc" />
@@ -35,8 +35,6 @@ Como garantir e configurar o olheiro para que ele traga jovens promessas com rea
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6eaa5eb2-888a-49e2-8d79-86ced84074c1" />
  
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/cb6ecd41-0790-42d7-8937-2870abff702f" />
-
-
 
 
  
