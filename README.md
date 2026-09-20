@@ -35,6 +35,9 @@ A administração e liderança são a chave para construir jovens de futuro prom
 - **Diretor das Camadas Jovens:**
   Personalidade: Transmite seus atributos ocultos (como Profissionalismo e Determinação) aos garotos.
   Posições: Sua Formação Preferida determina quais posições virão em maior quantidade no draft (ex: 4-3-3 traz mais pontas).
-  Atletas Excepcionais: Modifica o teto de PA de garotos raros/fenômenos (freak newgens).****
+  Atletas Excepcionais: Modifica o teto de PA de garotos raros/fenômenos
 
-Prompts Reutilizáveis: Os 1 ou 2 melhores prompts que você criou, já lapidados e prontos para qualquer outra pessoa copiar e colar se quiser estudar o mesmo assunto.
+Prompts Reutilizáveis: 
+Resuma o funcionamento mecânico do Youth Intake (Fornada de Jovens) no FM26. Explique a diferença de impacto entre Instalações das Categorias de Base, Preparação de Jovens e Busca de Jovens na CA e PA inicial, e detalhe o papel real do Diretor das Camadas Jovens (HoYD) em relação à personalidade e posição dos atletas.
+
+Monte um guia prático contendo: 1) O passo a passo para escolher olheiros e configurar Focos de Recrutamento para encontrar wonderkids; 2) O plano de treino ideal dividido por faixas etárias (15–17 anos, 18–21 anos e 21+ anos); e 3) As melhores práticas para mentoria e gestão de empréstimos.
