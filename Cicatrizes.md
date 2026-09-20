@@ -52,5 +52,7 @@ Quais as melhores estratégias com orçamento alto para que as jovens promessas 
  
 
 No FM 26, como identificar se um jogador de 2.5/3.0 estrelas com CA alto é uma boa contratação imediata ou apenas uma "ilusão" que vai render mais do que aparenta? O que olhar além das estrelas?
-<img width="462" height="603" alt="image" src="https://github.com/user-attachments/assets/a49f08d1-f290-43fc-ab84-6890a8e29b57" />
+
+
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/a49f08d1-f290-43fc-ab84-6890a8e29b57" />
 
