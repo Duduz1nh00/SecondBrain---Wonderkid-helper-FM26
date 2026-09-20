@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=gLXDzFAo6us
 
 ## Engenharia de Prompts e Cicatrizes
 
-[(Segue prompts realizados no modelo)
+[([Clique aqui para ler meu documento de Cicatrizes e Engenharia de Prompt)
 ](https://github.com/Duduz1nh00/SecondBrain---Wonderkid-helper-FM26/blob/main/Cicatrizes.md)
 
 ## Miniguia de Estudo
