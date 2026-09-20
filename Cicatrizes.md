@@ -1,31 +1,28 @@
-** Como escolher um olheiro? 
+**Como escolher um olheiro?** 
 
 - Minha dúvida se baseia em: Quais as informações presentes no simulador eu consigo extrair para escolher um bom profissional?
 - O que devo levar em consideração antes de decidir fechar a contratação?
 - Como eu sei que o olheiro irá buscar bons candidatos para lançar ao time de cima? 
-**
-
 
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/de9cb529-541f-40ef-b5fe-fd1a4fd62afc" />
-
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/bfa5c4b5-af65-4dc4-bd4f-ad13acb96662" />
 
+---
 
-**Levando em consideração que meu clube é rico e tem as melhore condições para atletas de todas as categorias
-Qual o principal motivo de eu não conseguir nenhum wonderkid? Eles vivem aparecendo na base dos outros clubes**
+**Levando em consideração que meu clube é rico e tem as melhores condições para atletas de todas as categorias:**
+- Qual o principal motivo de eu não conseguir nenhum wonderkid? 
+- Por que eles vivem aparecendo na base dos outros clubes?
 
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/8b059280-4a85-4b1f-b06d-dafbbfbf25a6" />
-
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/73f8669f-34e3-49b7-86ed-f4d1d0b61376" />
 
+---
 
-**Como saber se um jogador com 2,5 ou 3 estrelas de potencial, mas com CA alto é bom para o me clube?
-Como identificar as ilusões?**
+**Como saber se um jogador com 2,5 ou 3 estrelas de potencial, mas com CA alto é bom para o meu clube?**
+- Como identificar as ilusões?
 
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/f1a03634-3d5e-44a1-9708-5f1cbeb420fe" />
-
 <img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/336229de-2936-4c46-b3fd-6d735efd2eb3" />
-
 
  
  
