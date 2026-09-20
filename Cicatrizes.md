@@ -30,15 +30,27 @@ No FM26 como escolher um bom olheiro?
 Quais atributos devo checar na ficha do olheiro antes de contratar?
 O que avaliar além dos atributos como custo, alcance de conhecimento do país e restrições da diretoria?
 Como garantir e configurar o olheiro para que ele traga jovens promessas com real potencial para o time principal?
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6eaa5eb2-888a-49e2-8d79-86ced84074c1" />
  
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/cb6ecd41-0790-42d7-8937-2870abff702f" />
+
+
+
+
  
 Meu clube possui orçamento alto e infraestrutura máxima em todas as categorias de base, mas os melhores wonderkids continuam nascendo na base de times rivais.
 Quais mecânicas do simulador determinam a qualidade da fornada de jovens? 
 Qual é o peso real do Diretor das Camadas Jovens no perfil das revelações? 
 Quais as melhores estratégias com orçamento alto para que as jovens promessas surjam no meu clube
  
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f1777cd7-7264-430f-9232-ac487160d8ef" />
+
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/325a1b34-b3d6-42fa-8ff8-091c1f6ac114" />
  
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/82fd9382-d976-48ee-b6d4-7bb5762940e2" />
  
 
 No FM 26, como identificar se um jogador de 2.5/3.0 estrelas com CA alto é uma boa contratação imediata ou apenas uma "ilusão" que vai render mais do que aparenta? O que olhar além das estrelas?
- 
+<img width="462" height="603" alt="image" src="https://github.com/user-attachments/assets/a49f08d1-f290-43fc-ab84-6890a8e29b57" />
+
